@@ -1,0 +1,90 @@
+C:\Users\Ardhyan\Desktop\Project\bin\Debug\ProjectUAS.exe.config
+C:\Users\Ardhyan\Desktop\Project\bin\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Desktop\Project\bin\Debug\ProjectUAS.pdb
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\ProjectUAS.FormCover.resources
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\ProjectUAS.FormDalamGame.resources
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\ProjectUAS.Properties.Resources.resources
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\ProjectUAS.pdb
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\ProjectUAS.FormGameOver.resources
+C:\Users\Ardhyan\Desktop\Project\obj\Debug\ProjectUAS.FormHowToPlay.resources
+C:\Users\Ardhyan\Desktop\Project - Copy\bin\Debug\ProjectUAS.exe.config
+C:\Users\Ardhyan\Desktop\Project - Copy\bin\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Desktop\Project - Copy\bin\Debug\ProjectUAS.pdb
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\ProjectUAS.FormCover.resources
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\ProjectUAS.FormDalamGame.resources
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\ProjectUAS.FormGameOver.resources
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\ProjectUAS.FormHowToPlay.resources
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\ProjectUAS.Properties.Resources.resources
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Desktop\Project - Copy\obj\Debug\ProjectUAS.pdb
+C:\Users\Ardhyan\Desktop\Project Final\bin\Debug\ProjectUAS.exe.config
+C:\Users\Ardhyan\Desktop\Project Final\bin\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Desktop\Project Final\bin\Debug\ProjectUAS.pdb
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\ProjectUAS.FormCover.resources
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\ProjectUAS.FormDalamGame.resources
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\ProjectUAS.FormGameOver.resources
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\ProjectUAS.FormHowToPlay.resources
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\ProjectUAS.Properties.Resources.resources
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Desktop\Project Final\obj\Debug\ProjectUAS.pdb
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\bin\Debug\ProjectUAS.exe.config
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\bin\Debug\ProjectUAS.exe
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.FormCover.resources
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.FormDalamGame.resources
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.FormGameOver.resources
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.FormHowToPlay.resources
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.Properties.Resources.resources
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.exe
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.pdb
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\bin\Debug\ProjectUAS.pdb
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.Form5.resources
+D:\Workspace\Visual Studio\Repos\Project alpro - Copy\obj\Debug\ProjectUAS.FromTest.resources
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\bin\Debug\ProjectUAS.exe.config
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\bin\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\bin\Debug\ProjectUAS.pdb
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.FormCover.resources
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.FormDalamGame.resources
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.FormGameOver.resources
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.FormHowToPlay.resources
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.Form5.resources
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.FromTest.resources
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.Properties.Resources.resources
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Downloads\Project alpro - Edit 15Dec2022\Project alpro - Copy\obj\Debug\ProjectUAS.pdb
+C:\Users\Ardhyan\Desktop\Project alpo final\bin\Debug\ProjectUAS.exe.config
+C:\Users\Ardhyan\Desktop\Project alpo final\bin\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Desktop\Project alpo final\bin\Debug\ProjectUAS.pdb
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.FormCover.resources
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.FormDalamGame.resources
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.FormGameOver.resources
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.FormHowToPlay.resources
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.Form5.resources
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.FromTest.resources
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.Properties.Resources.resources
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.exe
+C:\Users\Ardhyan\Desktop\Project alpo final\obj\Debug\ProjectUAS.pdb
